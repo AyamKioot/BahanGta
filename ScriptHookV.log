@@ -1,0 +1,54 @@
+// GTA V SCRIPT HOOK (build Apr 22 2024, v1.0.3179.0)
+//     (C) Alexander Blade 2015-2024
+[20:10:03] INIT: Started
+[20:10:03] INIT: Success, game version is VER_1_0_3179_0
+[20:10:03] INIT: Registering script 'Menyoo.asi' (0x00007FF919391380)
+[20:10:03] INIT: Registering additional script thread 'Menyoo.asi' (0x00007FF9193A0B50)
+[20:10:03] INIT: Registering script 'Naruto.asi' (0x00007FF94A3970C0)
+[20:10:04] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FF96A5A1480)
+[20:10:10] INIT: Pool 1 extended
+[20:10:10] INIT: Pool 2 extended
+[20:10:10] INIT: Pool 3 extended
+[20:10:10] INIT: Pool 4 extended
+[20:10:15] INIT: GtaThread collection size 189
+[20:10:15] INIT: wnd proc 0x00000000FFFF09C5
+[20:10:15] INIT: IDXGISwapChain 0x00007FF988AF8000 (0x00007FF988A615E0)
+[20:10:15] INIT: IDXGISwapChain set
+[20:10:15] INIT: DX init started
+[20:10:15] INIT: DX feature level B000
+[20:10:15] INIT: DX init succeeded
+[20:11:04] CORE: Requesting thread creation
+[20:11:04] CORE: Creating threads
+[20:11:06] CORE: Started control thread, id 33 active 1
+[20:11:06] CORE: Started thread 'Menyoo.asi' (0x00007FF919391380), id 34 active 1
+[20:11:06] CORE: Started thread 'Menyoo.asi' (0x00007FF9193A0B50), id 35 active 1
+[20:11:06] CORE: Started thread 'Naruto.asi' (0x00007FF94A3970C0), id 36 active 1
+[20:11:06] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FF96A5A1480), id 37 active 1
+[20:11:06] CORE: Launching main() for 'Menyoo.asi' (0x00007FF919391380), id 34
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png', id 0
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png', id 1
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png', id 2
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png', id 3
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png', id 4
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png', id 5
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png', id 6
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png', id 7
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png', id 8
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png', id 9
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png', id 10
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png', id 11
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png', id 12
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png', id 13
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png', id 14
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png', id 15
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_face.png', id 16
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handh.png', id 17
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handm.png', id 18
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_face.png', id 19
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handh.png', id 20
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handm.png', id 21
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png', id 22
+[20:11:06] CORE: Creating texture 'G:\mystream\GTA V\steamapps\common\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png', id 23
+[20:11:06] CORE: Launching main() for 'Menyoo.asi' (0x00007FF9193A0B50), id 35
+[20:11:06] CORE: Launching main() for 'Naruto.asi' (0x00007FF94A3970C0), id 36
+[20:11:06] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FF96A5A1480), id 37
